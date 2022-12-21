@@ -7,6 +7,7 @@ make
 ```
 
 编译过后在```SOURCE/Exe_File```产生一个可执行文件```road_get```
+
 将千寻惯导接好后，执行
 ```bash
 cd SOURCE/Exe_File
