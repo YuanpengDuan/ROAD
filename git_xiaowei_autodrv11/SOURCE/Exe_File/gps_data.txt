@@ -1,0 +1,1 @@
+g_gps_data.courseAngle:2.838000
